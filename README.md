@@ -6,7 +6,7 @@ The Database was taken from Kaggle
 https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
 
 
-This is the original Structure of anime Database
+This is the Structure of anime Database
 
 #   Column        Non-Null Count  Dtype  
 ---  ------        --------------  -----  
@@ -37,7 +37,7 @@ This is the original Structure of anime Database
 
 
 
-Anime Dataset Column Descriptions
+ Anime Dataset Column Descriptions
 
     anime_id: A unique numerical identifier assigned to the specific anime entry within the database.
 
@@ -130,3 +130,4 @@ Anime Dataset Column Descriptions
     Image URL: A web address pointing to the primary image or thumbnail for the anime.
 
         Example: https://cdn.myanimelist.net/images/anime/4/19644.jpg
+
